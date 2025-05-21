@@ -20,7 +20,7 @@ olovke = int(input())
 markeri = int(input())
 deterdžent = int(input())
 popust = int(input())/100
-total = olovke * 5.80 + markeri * 7.20 + deterdžent *1.20
+total = olovke * 5.80 + markeri * 7.20 + deterdžent * 1.20
 umanjenje = total * popust
-sum = total - umanjenje
-print(sum)
+suma = total - umanjenje
+print(suma)

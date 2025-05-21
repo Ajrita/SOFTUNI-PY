@@ -16,5 +16,5 @@ patike = članarina - (članarina * 0.4)
 dres = patike - (patike *0.2)
 lopta = dres/4
 dodaci = lopta/5
-sum = članarina + patike + dres + lopta + dodaci
-print(sum)
+suma = članarina + patike + dres + lopta + dodaci
+print(suma)

@@ -14,8 +14,8 @@ Two lines are printed on the console:
 """
 
 m= float(input())
-lanscape = m * 7.61
-discount = 0.18 * lanscape
-total = lanscape - discount
+landscape = m * 7.61
+discount = 0.18 * landscape
+total = landscape - discount
 print(f"The final price is: {total} USD")
 print(f"The discount is: {discount} USD.")
