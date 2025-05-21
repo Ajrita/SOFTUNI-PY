@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71f4b1b2-290a-4bf0-b78d-c5e8c12dfce0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Akavarijum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arhitekta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Book_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dostava_hrane.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greeting_by_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_SoftUni.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inči_i_centrimetri.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ispis_brojeva.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalkulator_depozita.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Konvertovanje_dolara_u_leve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Košarka.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Krečenje.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opremanje_škole.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pet_shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Površina_pravougaonika.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Radijani_u_stepene.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rekonstrukcija_dvorišta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spajanje_podataka.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="71f4b1b2-290a-4bf0-b78d-c5e8c12dfce0" name="Changes" comment="Fist class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ajrita/SOFTUNI_PY",
+    "accountId": "a5c820e5-e44e-41cf-b448-5d954741b070"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -100,6 +80,19 @@
       <option name="presentableId" value="Default" />
       <updated>1747760151923</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fist class">
+      <option name="closed" value="true" />
+      <created>1747799157418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747799157418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fist class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fist class" />
   </component>
 </project>
